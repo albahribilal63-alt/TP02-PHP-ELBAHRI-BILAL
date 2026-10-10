@@ -10,9 +10,9 @@
 
 <?php
 
-$nom = "Amine";
-$prenom = "Sara";
-$age = 20;
+$nom = "ELBAHRI";
+$prenom = "BILAL";
+$age = 18;
 $formation = "Informatique";
 
 $phrase = "Je m'appelle " . $prenom . " " . $nom .

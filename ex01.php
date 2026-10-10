@@ -17,9 +17,9 @@
 */
 
 echo "Bienvenue dans mon TP PHP<br>";
-echo "Nom : Amine<br>";
-echo "Prénom : Sara<br>";
-echo "Groupe : G1<br>";
+echo "Nom : ELBAHRI<br>";
+echo "Prénom : BILAL<br>";
+echo "Groupe : GR_01<br>";
 ?>
 
 <p><?= "Je commence à apprendre PHP." ?></p>
